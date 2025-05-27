@@ -1,2 +1,2 @@
 # TaskManager
-Simple To-Do app
+Simple To-Do app with addition, deletion, information about tasks.
